@@ -601,7 +601,6 @@ span {
   margin-top: 40px;
 }
 
-/* Pour changer l'ordre de a et div */
 .projet-item:nth-child(even) a {
   order: 2;
 }
