@@ -601,6 +601,10 @@ span {
   margin-top: 40px;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8b149daaa10a44222e2b3575b1659217dc8d5525
 .projet-item:nth-child(even) a {
   order: 2;
 }
@@ -1105,7 +1109,7 @@ span {
   color: var(--main-color);
 }
 
-/* Arrows == Fleches */
+
 .arrows {
   position: absolute;
   top: 80%;
