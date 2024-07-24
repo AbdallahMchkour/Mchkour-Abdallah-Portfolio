@@ -1,4 +1,3 @@
-
 // SKILLS : to copy the img and repeat it
 var skillsLogos = document.querySelector('.skills-logos');
 if (skillsLogos) {
