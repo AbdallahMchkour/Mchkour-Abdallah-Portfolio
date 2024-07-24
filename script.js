@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 8b149daaa10a44222e2b3575b1659217dc8d5525
 // SKILLS : to copy the img and repeat it
 var skillsLogos = document.querySelector('.skills-logos');
 if (skillsLogos) {
