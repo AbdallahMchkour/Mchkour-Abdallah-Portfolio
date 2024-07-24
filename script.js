@@ -1,13 +1,3 @@
-//function im javascript: function myfunction(){}
-//Objet: stock des veleurs On y accède par le point . ou les crochets [] 
-//Les méthodes sont des fonctions définies comme propriétés d'un objet. On les appelle en utilisant le point . suivi du nom de la méthode et des parenthèses
-//Objet: stock des fonctions, commence toujours par new pour creer un nouvel objet a partir d'un class
-//document c'est un objet qui contient des proprietés et des methodes (Ex: document.getElementById())
-//The DOM combines Javascript et HTML together
-//document.body.innerHTML / document.querySelectorAll / document.querySelector('.cls-button').innerHTML
-//method = function saved inside an object
-
-
 // SKILLS : to copy the img and repeat it
 var skillsLogos = document.querySelector('.skills-logos');
 if (skillsLogos) {
